@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
-  [''],
+  ['15162568065', 'Akmal Rabbani', true],
+  ['6289603924264'],
   [''] 
 ] //Number of owners
 
-global.mods = ['919074692450','919074692450'] 
+global.mods = ['6289603924264','919074692450'] 
 global.prems = ['919074692450', '919074692450', '919074692450']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = '𝓐𝓴𝓫𝓸𝓽'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
+global.packname = '𝓐𝓴𝓫𝓸𝓽 ~ Stickers' 
+global.author = 'Akmal Rabbani' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/DevCouldntBeBack\n' 
+global.dygp = 'https://https://chat.whatsapp.com/IlQvikuS9Rt6ZoYVkbEnCN'
 global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
-global.fgyt = 'https://youtube.com/@comedymelodych8468'
-global.fgpyp = 'https://youtube.com/@comedymelodych8468'
-global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
+global.fgyt = 'https://youtube.com/@BicycleRythm'
+global.fgpyp = 'https://youtube.com/@BicycleRythm'
+global.fglog = 'https://telegra.ph/file/09297d311573675a19c0a.png' 
 
 //imagen
 global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
